@@ -1,7 +1,4 @@
 ## Leapcode Front
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ### Pre
 - Rename env.example to .env 
 - Download Firebase service account json and add the details to env
