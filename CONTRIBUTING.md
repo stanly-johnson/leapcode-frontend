@@ -1,31 +1,25 @@
-## Leapcode Front
-### Pre
-- Rename env.example to .env 
-- Download Firebase service account json and add the details to env
+Contributing to LeapCode Frontend
+=========================================
 
-## Available Scripts
+Leapcode welcomes contributions to our [open source projects on Github](https://github.com/Leapcode-Open). When contributing, please follow the guidelines mentioned in this document.
 
-In the project directory, you can run:
+Issues
+------
 
-### `yarn start`
+Feel free to submit issues and enhancement requests [here](https://github.com/Leapcode-Open/leapcode-frontend/issues)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Please use team@leapcode.io to report security vulnerabilities and severe bugs.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Contributing
+------------
 
-### `yarn test`
+Please refer to each project's style and contribution guidelines for submitting patches and additions. In general, we follow the "fork-and-pull" Git workflow.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ 1. **Fork** the repo on GitHub
+ 2. **Clone** the project to your own machine
+ 3. **Commit** changes to your own branch
+ 4. **Push** your work back up to your fork
+ 5. Submit a **Pull request** so that we can review your changes
 
-### `yarn build`
+NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
