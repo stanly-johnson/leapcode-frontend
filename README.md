@@ -1,4 +1,5 @@
-## Leapcode's Frontend Codebase
+## Leapcode's Frontend Codebase 
+[PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 Leapcode.io is an open source platform that motivates & rewards new open source contributors. Leapcode helps you contribute to open source projects right from your first pull request to working on major projects.
 
